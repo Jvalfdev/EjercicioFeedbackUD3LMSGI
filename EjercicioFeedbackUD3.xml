@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tabla SYSTEM "ejerciciofeedback.dtd">
-<tabla>
+<!--<!DOCTYPE tabla SYSTEM "ejerciciofeedback.dtd">-->
+<tabla xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="EjercicioFeedback3.xsd">
     <albumes formato="cd" idioma="en">
         <titulo>Violator</titulo>
         <grupo>Depeche Mode</grupo>
